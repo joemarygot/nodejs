@@ -1,3 +1,4 @@
+//No "{}" when export default, if not it will have "{}"
 import getPosts, { getPostsLength } from "./postController.js";
 
 console.log(getPosts());
