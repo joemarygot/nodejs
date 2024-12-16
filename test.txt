@@ -1,0 +1,2 @@
+Hello, Hatdog is writing this
+This is appended text
